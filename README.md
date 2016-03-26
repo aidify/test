@@ -1,2 +1,2 @@
 # test
-Example repository to test access and activity
+Example repository to test access and activity.
